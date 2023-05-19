@@ -1,2 +1,2 @@
 # calculator.github.io
-calculator
+Simple Calculator
